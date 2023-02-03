@@ -1,1 +1,4 @@
-hi
+HEAD
+
+#!/bin/bash
+echo "The school is opening" update_script
