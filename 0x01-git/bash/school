@@ -11,3 +11,4 @@ echo hello
 echo "The alx school is opening."
 echo "hello"
 update_script
+echo "school"
