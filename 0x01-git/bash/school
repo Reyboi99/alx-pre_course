@@ -1,4 +1,9 @@
 HEAD
 
 #!/bin/bash
-echo "The school is opening" update_script
+ HEAD
+echo "The school is open" 
+=======
+echo "The alx school is closed"
+echo hello
+ update_script
