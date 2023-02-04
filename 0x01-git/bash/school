@@ -1,1 +1,18 @@
+<<<<<<< HEAD
 getting nowhere
+=======
+HEAD
+
+#!/bin/bash.
+#HEAD
+ HEAD
+echo "The school is open!" 
+
+echo "The alx school is closed"
+echo hello
+ update_script=
+echo "The alx school is opening."
+echo "hello"
+update_script
+echo "school"
+>>>>>>> bc676f1840573e3bbe45c096574e44ce4661a6b9
