@@ -1,13 +1,1 @@
-HEAD
-
-#!/bin/bash.
-#HEAD
- HEAD
-echo "The school is open" 
-
-echo "The alx school is closed"
-echo hello
- update_script=
-echo "The alx school is opening."
-echo "hello"
-update_script
+getting nowhere
