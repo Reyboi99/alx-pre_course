@@ -1,9 +1,14 @@
 HEAD
 
-#!/bin/bash
+#!/bin/bash.
+<<<<<<< HEAD
  HEAD
 echo "The school is open" 
 =======
 echo "The alx school is closed"
 echo hello
  update_script
+=======
+echo "The alx school is opening."
+
+>>>>>>> update_script
